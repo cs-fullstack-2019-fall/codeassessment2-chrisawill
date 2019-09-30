@@ -9,3 +9,16 @@
 # ```
 # The newly created list contains:     2  1  4  3  6  5  8  7  10  9
 # ```
+
+
+# # import random here to make sure lists stay diffrent
+# import random
+
+list_of_claim_nums_1 = [2, 4, 6, 8, 10]
+list_of_claim_nums_2 = [1, 3, 5, 7, 9]
+newArray = []
+for eachnum in list_of_claim_nums_1
+    if newArray != 0
+        for
+    newArray.append(eachnum)
+    print(newArray())

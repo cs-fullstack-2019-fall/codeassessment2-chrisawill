@@ -14,3 +14,19 @@
 # # Update the rating from 2 to 8 from your code
 # The Grizzlies are from Memphis and are 8 in the standings.
 # ```
+
+# make your sport class
+class Sportsteam:
+    def __init__(self, name, city, ranking):
+        self.name = name
+        self.city = city
+        self.ranking = ranking
+# both functions to change ranking and format in f string
+    def changeR(self):
+        self.ranking = newrank
+    def myteam(self):
+        print(f"{self.name} will be in {self.city} in {self.ranking} place.")
+
+# instance of my team. print funtion isnt working
+newteam = Sportsteam("bears", "toronto", 2)
+newrank = 8

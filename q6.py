@@ -20,4 +20,16 @@
 # Club Secretary: Albert
 # Club Treasurer: Bob
 # ```
+class clubmewmber:
+    def __init__(self, name, role):
+        self.name = name
+        self.role = role
 
+member1 = clubmewmber("Alfred", "President")
+member2 = clubmewmber("Troy", " Vice President")
+member3 = clubmewmber("Albert", "Secratary")
+member4 = clubmewmber("Bob", "Treasurer")
+
+memarray = [member1, member2, member3, member4]
+for eachmember in memarray:
+    print(f"{memarray.index(0)} is {memarray.index(1)}")
