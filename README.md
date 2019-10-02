@@ -1,5 +1,18 @@
 # codeAssessment2
 #### Final Grade: 8.75/12
+
+1 Output off but mostly right. comments
+
+2 Good and commented
+
+3 Not working, but something there
+
+4 Comparisons wrong
+
+5 Mostly right comments
+
+6 Mostly right but iteration through instance array way off when printing
+
 ### Instructions
 Answer each question inside of the individual question files. Each file has the question paste inside of it.
 
